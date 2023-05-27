@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Aadithyan R
+### Register Number:212222230001
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
