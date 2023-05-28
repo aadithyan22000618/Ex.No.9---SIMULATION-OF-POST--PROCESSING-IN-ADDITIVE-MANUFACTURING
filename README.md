@@ -46,6 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/aadithyan22000618/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113586376/a9763a7a-2ead-4663-8102-9b3615ed4d73)
+![image](https://github.com/aadithyan22000618/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113586376/ada9ecef-062a-478c-b1fb-57ebab6d17f3)
+
+![image](https://github.com/aadithyan22000618/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113586376/c6011128-c736-425c-b9fb-e502f0008e61)
+
+
 
 ### Name:Aadithyan R
 ### Register Number:212222230001
